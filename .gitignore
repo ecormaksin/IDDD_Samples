@@ -1,6 +1,9 @@
 .gradle
+bin
 build
 .classpath
 .project
 *.iml
 .idea
+.attach_pid*
+.settings
